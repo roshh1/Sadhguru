@@ -1,7 +1,7 @@
 
 body{
     margin-top: -21px;
-    background-color: tomato;
+    background-color:#fdf2ed;
 }
 header{
     text-align: center;
@@ -29,8 +29,20 @@ header{
 #main_content{
     margin: 0 50px;
 }
-
-img{
+.floatLeft{
+ float: left;
+ margin-right: 10px;
+ border: 2px black solid
+}
+.floatRight {
+    float: right;
+    margin-left: 10px;
+    border: 2px black solid
+}
+#main_pic {
     width:100%;
     border: 5px black solid;
+}
+h3{
+    display: block;
 }
