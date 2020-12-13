@@ -40,8 +40,8 @@ header{
     border: 2px black solid
 }
 #main_pic {
-    width:100%;
-    border: 5px black solid;
+    max-width:100%;
+    outline: 5px black solid;
 }
 h3{
     display: block;
